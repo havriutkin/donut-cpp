@@ -100,5 +100,5 @@ The torus rotation and drawing are controlled to achieve a consistent frame rate
 By combining these mathematical concepts, we achieve a rotating 3D torus that is projected and visualized in the console.
 
 ## Contacts
-Checkout my other projects at my portfolio
+Checkout my other projects at my [portfolio](https://portfolio-dvyi.onrender.com)
 
